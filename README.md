@@ -1,3 +1,7 @@
+# CNN_Auto_Ownership_Prediction
+
+Paper is under jasonllu.pdf
+
 Preprocessing notebooks:
 
 Gaussian Pyramid Preprocess.ipynb
@@ -27,6 +31,5 @@ aggregatedNNandCNN_GPU_6layer.ipynb
 nn_GPU_3fc.ipynb
 
 
-Data:
-https://www.dropbox.com/sh/bv0ur9d9deemvnj/AAAplSwLWL72WxEw-Q8OMoPia?dl=0
-# CNN_Auto_Ownership_Prediction
+
+
