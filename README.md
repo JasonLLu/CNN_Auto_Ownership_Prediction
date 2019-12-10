@@ -2,13 +2,13 @@
 
 Paper is under jasonllu.pdf
 
-Preprocessing notebooks:
+## Preprocessing notebooks:
 
 Gaussian Pyramid Preprocess.ipynb
 data_preprocessing_notebook_oldImgs.ipynb
 
 
-Final Models:
+## Final Models:
 
 nn_GPU_8fc.ipynb - Feed Forward Network with NHTS dataset 9 layers
 cnn_GPU_ADAM_2Conv.ipynb - CNN with satellite images
@@ -19,12 +19,12 @@ aggregatedCNN_Gaussian_Pyramid_2conv.ipynb - CNN with Gaussian Pyramid augmented
 aggregatedNNandCNN_GPU_2conv_unshared.ipynb - CNN with Gaussian Pyramid augmented with NHTS dataset (unshared weights)
 
 
-Filter Visualizations (Representation Learning):
+## Filter Visualizations (Representation Learning):
 
 filter_visualization_cnn_net.ipynb
 
 
-Other models that we tried that resulted in lower accuracies (more layers):
+## Other models that we tried that resulted in lower accuracies (more layers):
 
 aggregatedCNN_Gaussian_Pyramid_6layer.ipynb
 aggregatedNNandCNN_GPU_6layer.ipynb
