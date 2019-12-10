@@ -1,4 +1,5 @@
 # CNN_Auto_Ownership_Prediction
+By Shen Hao Wang and Jason Lu
 
 Paper is under jasonllu.pdf
 
